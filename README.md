@@ -2,5 +2,5 @@
 ## Objective Function  
 L = L_CE + L_KL + L_MSE.
 ## References  
-EMNLP 2019: Patient Knowledge Distillation for BERT Model Compression.  
-NIPS 2014: Distilling the knowledge in a neural network. 
+EMNLP 2019 - Patient Knowledge Distillation for BERT Model Compression.  
+NIPS 2014 - Distilling the knowledge in a neural network. 
